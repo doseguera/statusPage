@@ -7,6 +7,8 @@ sites:
     url: https://reporte.carinfo.com.mx
   - name: Pruebas Beta
     url: https://pruebasbeta.globalgbc.com
+  - name: Car-Info
+    url: https://reporte.car-info.com.mx
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
