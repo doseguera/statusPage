@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 527,
-    "timeDay": 184,
-    "timeWeek": 359,
-    "timeMonth": 659,
-    "timeYear": 510,
+    "timeDay": 393,
+    "timeWeek": 327,
+    "timeMonth": 665,
+    "timeYear": 508,
     "dailyMinutesDown": {
       "2022-07-14": 31,
       "2022-06-13": 26,
@@ -38,7 +38,8 @@
     "timeMonth": 0,
     "timeYear": 672,
     "dailyMinutesDown": {
-      "2023-04-05": 3,
+      "2023-04-06": 3,
+      "2023-04-05": 1440,
       "2023-04-04": 1440,
       "2023-04-03": 1440,
       "2023-04-02": 1440,
@@ -401,8 +402,7 @@
       "2022-04-10": 1440,
       "2022-04-09": 1440,
       "2022-04-08": 1440,
-      "2022-04-07": 1440,
-      "2022-04-06": 1440
+      "2022-04-07": 1440
     }
   },
   {
@@ -411,18 +411,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/reporte.car-info.com.mx.ico",
     "slug": "car-info",
     "status": "down",
-    "uptime": "35.65%",
+    "uptime": "35.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "25.75%",
+    "uptimeYear": "25.48%",
     "time": 473,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 432,
+    "timeYear": 430,
     "dailyMinutesDown": {
-      "2023-04-05": 3,
+      "2023-04-06": 3,
+      "2023-04-05": 1440,
       "2023-04-04": 1440,
       "2023-04-03": 1440,
       "2023-04-02": 1440,
