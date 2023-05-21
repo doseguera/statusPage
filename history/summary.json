@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 527,
-    "timeDay": 1810,
-    "timeWeek": 719,
-    "timeMonth": 482,
-    "timeYear": 502,
+    "timeDay": 340,
+    "timeWeek": 644,
+    "timeMonth": 474,
+    "timeYear": 501,
     "dailyMinutesDown": {
       "2022-07-14": 31,
       "2022-06-13": 26
@@ -26,7 +26,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/pruebasbeta.globalgbc.com.ico",
     "slug": "pruebas-beta",
     "status": "down",
-    "uptime": "1.10%",
+    "uptime": "1.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -37,7 +37,8 @@
     "timeMonth": 0,
     "timeYear": 672,
     "dailyMinutesDown": {
-      "2023-05-20": 3,
+      "2023-05-21": 3,
+      "2023-05-20": 1440,
       "2023-05-19": 1440,
       "2023-05-18": 1440,
       "2023-05-17": 1440,
@@ -400,8 +401,7 @@
       "2022-05-25": 1440,
       "2022-05-24": 1121,
       "2022-05-23": 1440,
-      "2022-05-22": 1440,
-      "2022-05-21": 1440
+      "2022-05-22": 1440
     }
   },
   {
@@ -410,18 +410,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/reporte.car-info.com.mx.ico",
     "slug": "car-info",
     "status": "down",
-    "uptime": "32.24%",
+    "uptime": "32.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "13.42%",
+    "uptimeYear": "13.15%",
     "time": 473,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 380,
+    "timeYear": 376,
     "dailyMinutesDown": {
-      "2023-05-20": 3,
+      "2023-05-21": 3,
+      "2023-05-20": 1440,
       "2023-05-19": 1440,
       "2023-05-18": 1440,
       "2023-05-17": 1440,
