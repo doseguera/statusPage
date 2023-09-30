@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/reporte.carinfo.com.mx.ico",
     "slug": "reporte-cari",
     "status": "down",
-    "uptime": "99.23%",
+    "uptime": "99.07%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "43.92%",
-    "uptimeMonth": "87.09%",
-    "uptimeYear": "98.92%",
-    "time": 532,
-    "timeDay": 10275,
-    "timeWeek": 3216,
-    "timeMonth": 1012,
-    "timeYear": 544,
+    "uptimeWeek": "29.63%",
+    "uptimeMonth": "83.81%",
+    "uptimeYear": "98.65%",
+    "time": 551,
+    "timeDay": 10203,
+    "timeWeek": 4637,
+    "timeMonth": 1334,
+    "timeYear": 571,
     "dailyMinutesDown": {
-      "2023-09-29": 3,
+      "2023-09-30": 3,
+      "2023-09-29": 1440,
       "2023-09-28": 1440,
       "2023-09-27": 1440,
       "2023-09-26": 1440,
@@ -41,7 +42,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-29": 3,
+      "2023-09-30": 3,
+      "2023-09-29": 1440,
       "2023-09-28": 1440,
       "2023-09-27": 1440,
       "2023-09-26": 1440,
@@ -404,8 +406,7 @@
       "2022-10-04": 1440,
       "2022-10-03": 1440,
       "2022-10-02": 1440,
-      "2022-10-01": 1440,
-      "2022-09-30": 1440
+      "2022-10-01": 1440
     }
   },
   {
@@ -414,7 +415,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/reporte.car-info.com.mx.ico",
     "slug": "car-info",
     "status": "down",
-    "uptime": "25.19%",
+    "uptime": "25.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -425,7 +426,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-29": 3,
+      "2023-09-30": 3,
+      "2023-09-29": 1440,
       "2023-09-28": 1440,
       "2023-09-27": 1440,
       "2023-09-26": 1440,
@@ -788,8 +790,7 @@
       "2022-10-04": 1440,
       "2022-10-03": 1440,
       "2022-10-02": 1440,
-      "2022-10-01": 1440,
-      "2022-09-30": 1440
+      "2022-10-01": 1440
     }
   }
 ]
