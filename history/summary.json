@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/reporte.carinfo.com.mx.ico",
     "slug": "reporte-cari",
     "status": "down",
-    "uptime": "66.64%",
+    "uptime": "66.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "18.10%",
+    "uptimeYear": "17.83%",
     "time": 632,
-    "timeDay": 603,
-    "timeWeek": 365,
-    "timeMonth": 637,
+    "timeDay": 305,
+    "timeWeek": 338,
+    "timeMonth": 635,
     "timeYear": 648,
     "dailyMinutesDown": {
-      "2024-07-20": 4,
+      "2024-07-21": 4,
+      "2024-07-20": 1440,
       "2024-07-19": 1440,
       "2024-07-18": 1440,
       "2024-07-17": 1440,
@@ -325,7 +326,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/pruebasbeta.globalgbc.com.ico",
     "slug": "pruebas-beta",
     "status": "down",
-    "uptime": "0.58%",
+    "uptime": "0.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -336,7 +337,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-20": 4,
+      "2024-07-21": 4,
+      "2024-07-20": 1440,
       "2024-07-19": 1440,
       "2024-07-18": 1440,
       "2024-07-17": 1440,
@@ -699,8 +701,7 @@
       "2023-07-26": 1440,
       "2023-07-25": 1440,
       "2023-07-24": 1440,
-      "2023-07-23": 1440,
-      "2023-07-22": 1440
+      "2023-07-23": 1440
     }
   },
   {
@@ -709,7 +710,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/reporte.car-info.com.mx.ico",
     "slug": "car-info",
     "status": "down",
-    "uptime": "16.92%",
+    "uptime": "16.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -720,7 +721,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-20": 4,
+      "2024-07-21": 4,
+      "2024-07-20": 1440,
       "2024-07-19": 1440,
       "2024-07-18": 1440,
       "2024-07-17": 1440,
@@ -1083,8 +1085,7 @@
       "2023-07-26": 1440,
       "2023-07-25": 1440,
       "2023-07-24": 1440,
-      "2023-07-23": 1440,
-      "2023-07-22": 1440
+      "2023-07-23": 1440
     }
   }
 ]
